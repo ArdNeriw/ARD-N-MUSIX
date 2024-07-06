@@ -45,7 +45,7 @@
 <p align="center">
 <a href="https://telegram.me/Ard_Neeiw"><img src="https://img.shields.io/badge/-☆𝐃𝐌%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
- `d`<b>
+ <b>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
 <a href="https://t.me/bridalOwax"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
